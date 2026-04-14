@@ -1,7 +1,6 @@
-# Statistical Learning Portfolio (R & Python)
+# Machine Learning Case Studies: Regression & Classification (R & Python)
 
-This repository is a curated portfolio of **statistical learning and machine learning case studies**, 
-covering regression and classification problems in both **low-dimensional** and **high-dimensional (p > n)** settings. 
+Applied **machine learning** case studies in R and Python, covering **regression** and **classification** in both **standard and high-dimensional** (p > n) settings,  with Ridge, Lasso, XGBoost, LightGBM, SVM, Random Forest and more. Focus on model comparison, cross-validation, and interpretability rather than black-box tuning.
 
 The goal of this project is to demonstrate **practical, applied ML skills**: 
 from problem formulation and model selection to evaluation, interpretation, and comparison, 
@@ -28,7 +27,7 @@ Each scenario is implemented as an **independent case study** with:
 
 ## Repository Structure
 
-- statistical-learning/ 
+- ml-regression-classification-r-python/ 
 
     - regression/ 
     - classification/ 
